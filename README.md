@@ -20,11 +20,24 @@ COnclusion
 
 ### Project 2: Predicting whether an email is a Spam or Not Spam
 Loading the Dataset
+
+
 Exploratory Data Analysis
+
+
 Visualization
+
+
 Modelling: Naive Bayes Classifier; GaussianNB
+
 Optimizing techniques for Gaussian Naive Bayes Classifier
+
+
 Modelling: Naive Bayes Classifier; Bernoulli BayesNB
+
+
 Reccomendations
+
+
 Challenging the Solution: XGBOOST
 Conclusion
